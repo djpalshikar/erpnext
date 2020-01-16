@@ -89,4 +89,5 @@ Please note that it is not the goal of this policy to limit commercial activity 
 When in doubt about your use of the ERPNext name or logo, please contact Frappe Technologies for clarification.
 
 This fork was made to push changes to ERPNext made internally, nothing much has been pushed since then, as most changes were made by Frappe. www.sapconinstruments.com is currently running on ERPNext
+
 (inspired by WordPress)
